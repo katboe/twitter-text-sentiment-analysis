@@ -1,7 +1,7 @@
 # Twitter Text Sentiment Analysis
 Authors: Judith Beestermöller, Katharina Börsig, Zuzana Frankovská and Katja Möhring
 
-This repository contains the implementation for training an ensemble method of complex deep neural networks in order to perform text classification on twitter data. The project was performed as part of the Computer Intelligence Lab 2020 at ETH Zurich. For further details on the preprocessing, embeddings and models, please refer to our project report provided in the 'report' folder.
+This repository contains the implementation for training an ensemble method of complex deep neural networks in order to perform text classification on twitter data. The project was performed as part of the Computational Intelligence Lab 2020 at ETH Zurich. For further details on the preprocessing, embeddings and models, please refer to our project report provided in the 'report' folder.
 
 ### How to run the scripts:
 
